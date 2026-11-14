@@ -7,6 +7,10 @@ Sistema de Planejamento e Acompanhamento de Ações de Saúde na Escola.
 - Rayka Nicolly Jobel Rodrigues - RA: 26002081-2
 - Victor Hugo Justi Juvelino - RA: 26004892-2
 
+## Link para o Video
+
+https://drive.google.com/file/d/18zukgaLMPQJz2vSYclkLc80FcZqwzEwM/view?usp=sharing
+
 ## Sobre o projeto
 
 Projeto desenvolvido para a AEP do curso de Engenharia de Software,
